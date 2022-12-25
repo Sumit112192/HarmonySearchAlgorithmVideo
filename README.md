@@ -1,1 +1,1 @@
-echo "# HarmonySearchAlgorithmVideo"
+# HarmonySearchAlgorithmVideo
